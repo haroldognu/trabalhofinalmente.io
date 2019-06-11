@@ -1,0 +1,12 @@
+.baner{
+
+	background:  blue url("/_image/2.png") no-repeat left top fixed;
+	width: auto;
+	height: auto;
+}
+#copo{
+
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+}
